@@ -1,0 +1,16 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "gmail-user": "devanshiagrawal000@gmail.com",
+    "gmail-password": "ajay2569",
+    "no_of_posts": 3,
+    "blog_name": "Coding Thunder",
+    "login_image": "login.jpg",
+    "admin_user": "devanshi",
+    "admin_password": "devanshi",
+    "upload_location": "C:\\Users\\lenovo\\PycharmProjects\\flasktut\\static"
+
+  }
+}
